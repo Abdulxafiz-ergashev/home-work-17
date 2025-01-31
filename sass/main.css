@@ -74,13 +74,15 @@ header{
 }
 .footer{  
     gap: 100px;
-    margin-top: 50px;   
+    margin-top: 50px;  
+    display: flex 
 }
 .anor{
     max-width: 1300px;
     width: 400px;
-    align-items: center;
-    margin: 0 auto;
+    /* align-items: center; */
+    /* margin: 0 auto; */
+    
 }
 .nur{
     font-size: 24px;
